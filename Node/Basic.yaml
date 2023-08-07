@@ -1,0 +1,10 @@
+- Node Js Architeture
+- Event Loop
+- Thread Pool and Worker thread
+- Child Process
+- File System
+- DNS
+- Https 
+- Stream
+- Buffers
+- https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick

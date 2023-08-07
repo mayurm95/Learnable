@@ -1,0 +1,146 @@
+- Javascript (10 days)
+  - Javascript Engine, How Js Works, Event Loop 
+  - Hosting, Closure, Curring
+  - Diff Let Const Var
+  - this Keyword 
+  - call apply bind method
+  - Callback, Callback Hell, Promises, Await , Async
+  - Es6 Features
+     - Destructring
+     - Spread Operator object ...object 1,2,3
+     - Rest Operator  {1, 2, ...3} = object
+     - Object Literal  
+  - Generator Function
+  - Higher Order Functions 
+  - Array Method
+  - Object Method
+  - String Method
+  - Timer Functions
+  
+  - Dom Manupulation
+  - Event handlers
+  - Trottling, Bubbling & Capturing, Debouncing
+  - Weak map, 
+  - Polyfills
+
+- Typescript(5 Days)
+  - Features
+  - Pros and Cons
+  - OOPS
+  - Generic
+  - Tuples
+  - Setup - Mongooes
+    - Schema 
+    - Model
+- NPM (Node Package Manager)
+- Yarn
+- NPMP
+- Nodejs (2 Days)
+  - Need of Node js 
+  - Architeture
+  - Event Loop
+  - Thread Pool
+  - Libuv
+  - Enable Multiple Process using fork
+  - Stream, Pipe, Buffer
+  - File System
+  - Http Module
+
+- ExpressJs(1 Day)
+  - Middleware
+  - Routing, Routes Path
+  - Validation Handling
+  - Error Handling
+
+- ReactJs(5 days)
+  - State and Props
+  - JSX (if browser doesn't understand jsx then how will it know)
+  - Class Component
+  - LifeCycle Methods
+  - Functional Component
+  - Props Drilling & Context API
+  - Hooks
+    - useEffect
+    - useState
+    - useContext
+    - useReducer
+    - useMemo
+    - useCallback
+    - useImperativeHandle
+    - useRef
+  - Higher Order Component
+  - Custom Hooks
+  - Fragment
+  - Error Handling in ReactJs
+  - Event Handling
+  - Lazy Loading, Suspense
+  - Router, Public and Private Router
+  - useHistory, useLocation
+  
+- MongoDB
+  - Pros and Cons
+  - BSON
+  - CRUD With Diff Methods
+  - Mongooes
+  - Aggregation
+  - Index
+  - Data Modelling
+
+- SQL
+  - 
+- Babel
+- Docker
+- Jenkins 
+- Github
+- GitLab
+- Bitbucket
+
+- Unit Test Cases
+- Jest
+
+
+- Rest Api 
+- Api Security
+  - JWT
+  - Refresh Tokens
+- API Testing
+- Protocols
+- Validation
+- Pagination
+
+- SOLID Principle
+- CAP
+- DRY
+
+- Architeture Patterns
+- Load Balancing
+- Data Modelling
+
+
+- Payment Integration
+- Third Party Integrations
+- Socket.io
+- Redux
+
+- Coding Practice
+- Explore Public Repositories
+
+- Html & css
+- position
+- Flex-box 
+- box-model
+- z-index
+- grid
+- media query
+- animation
+- what is docType?
+  
+
+
+# 10 to 7 Office
+
+# 10 to 12 -> Basic Js 
+# 12 to 4 -> NodeJs 
+# 4 to 6 -> ReactJs
+
+# 9 to 10 AWS Learning 
