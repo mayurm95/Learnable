@@ -5,7 +5,6 @@
  * Snippet
  */
 
-
 function memoizedFunction() {
     var cache = {};
     return function(input) {
